@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if page.extra.robots_noindex %}
+    <meta name="robots" content="noindex">
+    {%- endif %}
+    <link rel="stylesheet" href="/style.css">
+    <title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ config.title }}</title>
+    <meta name="description" content="{{ config.description }}">
+  </head>
+  <body class="page-layout">
+
+    <section class="page-header">
+      <header class="container">
+        <a class="page-title" href="/">{{ config.title }}</a>
+        <div class="page-subtitle">LAN-Partys, die wegen <a href="https://de.wikipedia.org/wiki/SARS-CoV-2">SARS-CoV-2</a> nicht planmäßig stattfinden</div>
+      </header>
+    </section>
+
+    <main class="page-body">
+      <div class="container">
+{%- block content %}{% endblock %}
+      </div>
+    </main>
+
+    <section class="page-footer">
+      <footer class="container">
+        <small>
+          Ein Projekt von <a href="https://www.orgatalk.de/">OrgaTalk.de</a> in 2020–2021
+          &middot;
+          <a href="/atom.xml">Feed</a>
+        </small>
+      </footer>
+    </section>
+
+  </body>
+</html>

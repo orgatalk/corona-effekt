@@ -1,0 +1,9 @@
+base_url = "https://corona-effekt.orgatalk.de"
+
+title = "Der Corona-Effekt"
+description = "LAN-Partys, die wegen SARS-CoV-2 nicht planmäßig stattfinden"
+
+output_dir = "public"
+
+generate_feed = true
+feed_limit = 10

@@ -1,0 +1,16 @@
+    <div class="party">
+      <div class="party-head">
+        {%- if party.extra.country_code is defined %}
+        <div class="party-country">{{ macros::country_flag(code=party.extra.country_code) }}</div>
+        {%- endif %}
+        <div class="party-title">{{ party.title }}</div>
+      </div>
+      <div class="party-original-date">{{ party.extra.original_date }}</div>
+      {%- if party.extra.seats is defined %}
+      <div class="party-size">{{ party.extra.seats }} Plätze</div>
+      {%- endif %}
+      <div class="effect">
+        Am <span class="effect-date">{{ party.extra.effect_announcement_date }}</span>
+        <a class="effect-description" href="{{ party.extra.effect_announcement_url }}">{{ party.extra.effect_description }}</a>.
+      </div>
+    </div>

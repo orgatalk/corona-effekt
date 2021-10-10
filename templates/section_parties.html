@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% block content %}
+  {%- set parties = section.pages %}
+
+<div class="parties-count"><strong>{{ parties | length }}</strong> Einträge</div>
+
+<div class="parties">
+  {%- for party in parties %}
+    {% include "_party.html" %}
+  {%- endfor %}
+</div>
+
+{% endblock %}
