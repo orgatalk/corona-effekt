@@ -6,7 +6,6 @@ date = 2020-08-30
 country_code = "de"
 original_date = "13.–15.11.2020"
 seats = 150
-effect_announcement_date = "30.08.2020"
 effect_description = "verschoben auf 12.–14.11.2021"
 effect_announcement_url = "https://www.house-of-lan.de/party/news/980"
 +++

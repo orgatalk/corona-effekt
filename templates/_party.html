@@ -10,7 +10,7 @@
       <div class="party-size">{{ party.extra.seats }} Plätze</div>
       {%- endif %}
       <div class="effect">
-        Am <span class="effect-date">{{ party.extra.effect_announcement_date }}</span>
+        Am <span class="effect-date">{{ party.date | date(format="%d.%m.%Y", timezone="Europe/Berlin") }}</span>
         <a class="effect-description" href="{{ party.extra.effect_announcement_url }}">{{ party.extra.effect_description }}</a>.
       </div>
     </div>

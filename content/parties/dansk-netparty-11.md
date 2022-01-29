@@ -6,7 +6,6 @@ date = 2020-03-12T21:30:00+01:00
 country_code = "dk"
 original_date = "10.–12.04.2020"
 seats = 200
-effect_announcement_date = "12.03.2020"
 effect_description = "abgesagt"
 effect_announcement_url = "https://dansknetparty.dk/"
 +++

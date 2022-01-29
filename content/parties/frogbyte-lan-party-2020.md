@@ -6,7 +6,6 @@ date = 2020-03-31
 country_code = "it"
 original_date = "24.–26.04.2020"
 seats = 350
-effect_announcement_date = "31.03.2020"
 effect_description = "abgesagt"
 effect_announcement_url = "https://www.facebook.com/frogbyte.lan/photos/a.416682265129702/1847429295388318/?type=3"
 +++

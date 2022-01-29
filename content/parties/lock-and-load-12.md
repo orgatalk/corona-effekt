@@ -6,7 +6,6 @@ date = 2020-03-22
 country_code = "ch"
 original_date = "24.–26.04.2020"
 seats = 512
-effect_announcement_date = "22.03.2020"
 effect_description = "verschoben"
 effect_announcement_url = "https://lockandload.ch/news/?id=308"
 +++
