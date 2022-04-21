@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Der Corona-Effekt</title>
+	<subtitle>LAN-Partys, die wegen SARS-CoV-2 nicht planmäßig stattfinden</subtitle>
+	<link href="https://corona-effekt.orgatalk.de/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://corona-effekt.orgatalk.de"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-04-21T00:00:00+00:00</updated>
+	<id>https://corona-effekt.orgatalk.de/atom.xml</id>
+	<entry xml:lang="en">
+		<title>NorthCon 2022</title>
+		<published>2022-04-21T00:00:00+00:00</published>
+		<updated>2022-04-21T00:00:00+00:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/northcon-2022/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/northcon-2022/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>BieberLAN 43</title>
+		<published>2022-03-25T00:00:00+00:00</published>
+		<updated>2022-03-25T00:00:00+00:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/bieberlan-43-3/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/bieberlan-43-3/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Combatzone 25</title>
+		<published>2022-02-13T16:00:00+01:00</published>
+		<updated>2022-02-13T16:00:00+01:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/combatzone-25/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/combatzone-25/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Lock and Load 13</title>
+		<published>2022-02-03T00:00:00+00:00</published>
+		<updated>2022-02-03T00:00:00+00:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/lock-and-load-13/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/lock-and-load-13/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Red Bull pLANet one 2022</title>
+		<published>2022-01-26T19:00:00+01:00</published>
+		<updated>2022-01-26T19:00:00+01:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/redbull-planetone-2022/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/redbull-planetone-2022/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>NetConvent #53</title>
+		<published>2022-01-23T18:00:00+01:00</published>
+		<updated>2022-01-23T18:00:00+01:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/netconvent-53/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/netconvent-53/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>GyBraLAN:RE 9 &#x2F; LunaLAN 5</title>
+		<published>2022-01-20T16:30:00+01:00</published>
+		<updated>2022-01-20T16:30:00+01:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/gybralanre-9/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/gybralanre-9/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>BeachLAN 2022</title>
+		<published>2022-01-13T17:00:00+01:00</published>
+		<updated>2022-01-13T17:00:00+01:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/beachlan-2022/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/beachlan-2022/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>NorthCon 2021</title>
+		<published>2021-11-19T00:00:00+00:00</published>
+		<updated>2021-11-19T00:00:00+00:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/northcon-2021/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/northcon-2021/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>[&#x27;ju:nien] XXIV</title>
+		<published>2021-09-09T09:30:00+02:00</published>
+		<updated>2021-09-09T09:30:00+02:00</updated>
+		<link href="https://corona-effekt.orgatalk.de/parties/junien-24-2/" type="text/html"/>
+		<id>https://corona-effekt.orgatalk.de/parties/junien-24-2/</id>
+		<content type="html"></content>
+	</entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://corona-effekt.orgatalk.de/sitemap.xml
